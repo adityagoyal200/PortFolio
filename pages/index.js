@@ -1,6 +1,3 @@
-// next image
-import Image from 'next/image';
-
 // components
 import ParticlesContainer from '../components/ParticlesContainer';
 import ProjectsBtn from '../components/ProjectsBtn';
@@ -26,7 +23,7 @@ const Home = () => {
             exit='hidden'
             className='h1'
           >
-            Hello I Am<br /> {' '}
+            Hello I Am<br /> {''}
             <span className='text-accent'>Aditya Goyal</span>
           </motion.h1>
           {/* subtitle */}
@@ -39,10 +36,9 @@ const Home = () => {
           >
               Greetings!
               <br></br>
-              This space represents my creative journey and showcases my work with passion and dedication.I've poured my heart and soul into each project.
+              This space represents my creative journey and showcases my work with passion and dedication.Ive poured my heart and soul into each project.
               <br></br>
-              Feel free to explore and get inspired. If you have any questions or collaboration ideas, don't hesitate to reach out.
-
+              Feel free to explore and get inspired. If you have any questions or collaboration ideas, dont hesitate to reach out.
               Thank you for visiting, and I hope you enjoy your time here.
           </motion.p>
           {/* btn */}
@@ -83,5 +79,3 @@ const Home = () => {
 };
 
 export default Home;
-
-// https://drive.google.com/drive/folders/1GWm0YWBNR6WKWvXYeKYEgffw0IMSA22D?usp=sharing

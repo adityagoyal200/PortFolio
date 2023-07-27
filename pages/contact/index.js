@@ -1,6 +1,3 @@
-// components
-import Circles from '/components/Circles';
-
 // icons
 import { BsArrowRight } from 'react-icons/bs';
 
@@ -24,7 +21,7 @@ const Contact = () => {
             exit='hidden'
             className='h2 text-center mb-12'
           >
-            Let's <span className='text-accent'>Connect.</span>
+            Lets <span className='text-accent'>Connect.</span>
           </motion.h2>
           {/* form */}
           <motion.form
