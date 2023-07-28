@@ -36,7 +36,7 @@ const Home = () => {
           >
               Greetings!
               <br></br>
-              This space represents my creative journey and showcases my work with passion and dedication.Ive poured my heart and soul into each project.
+              This space represents my creative journey and showcases my work with passion and dedication.I have poured my heart and soul into each project.
               <br></br>
               Feel free to explore and get inspired. If you have any questions or collaboration ideas, dont hesitate to reach out.
               Thank you for visiting, and I hope you enjoy your time here.
